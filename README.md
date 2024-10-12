@@ -1,0 +1,1 @@
+# pansiyon_otomasyonu_proje
