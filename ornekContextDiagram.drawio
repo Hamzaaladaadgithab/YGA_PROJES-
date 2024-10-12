@@ -1,0 +1,407 @@
+<mxfile host="app.diagrams.net" modified="2024-05-21T19:28:58.500Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="C5ZjdjuFFVKT2Vd08ptr" version="24.4.4" type="device">
+  <diagram name="Sayfa -1" id="a5x3pTAC_4sALsic-HLh">
+    <mxGraphModel dx="2274" dy="1413" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="IWls0DkO-7642o-yBkDR-2" value="ADAY TAVSİYE ROBOTU" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="2" y="139" width="110" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="IWls0DkO-7642o-yBkDR-3" value="BAĞLANTI VE AĞ OLUŞTURMA" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="206" y="-22" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IWls0DkO-7642o-yBkDR-5" value="ANONİM İŞ YERİ DEĞERLENDİRME SİSTEMİ&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="388" y="-2" width="120" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="IWls0DkO-7642o-yBkDR-7" value="İÇERİK PAYLAŞIMI" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="525" y="-14" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IWls0DkO-7642o-yBkDR-8" value="İŞVEREN ADAY DEĞERLENDİRME" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="761" y="106" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IWls0DkO-7642o-yBkDR-9" value="&lt;div&gt;MENTÖRLÜK VE DANIŞMANLIK SİSTEMİ&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="581" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IWls0DkO-7642o-yBkDR-11" value="MESAJLAŞMA VE İLETİŞİM" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="102" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IWls0DkO-7642o-yBkDR-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="97" y="507" as="sourcePoint" />
+            <mxPoint x="320.75" y="393" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="321" y="507" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IWls0DkO-7642o-yBkDR-85" value="İş Müracaatları Analizi" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=0;labelBackgroundColor=#A8DADC;fontColor=#1D3557;sketch=1;curveFitting=1;jiggle=2;" vertex="1" connectable="0" parent="IWls0DkO-7642o-yBkDR-81">
+          <mxGeometry x="-0.1431" y="-2" relative="1" as="geometry">
+            <mxPoint x="-24" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IWls0DkO-7642o-yBkDR-12" value="İŞ İLANLARI VE KARİYER YÖNETİMİ" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="-23" y="474" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IWls0DkO-7642o-yBkDR-13" value="KİMLER İLE ÇALIŞACAĞIM? SİSTEMİ" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="-23" y="277" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IWls0DkO-7642o-yBkDR-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.85;entryY=1.007;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.83;exitY=0.043;exitDx=0;exitDy=0;exitPerimeter=0;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="IWls0DkO-7642o-yBkDR-14" target="IWls0DkO-7642o-yBkDR-93">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="590" y="410" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="511" y="572" />
+              <mxPoint x="511" y="457" />
+              <mxPoint x="409" y="457" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IWls0DkO-7642o-yBkDR-100" value="Ön Mülakat Sonucu" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=0;labelBackgroundColor=#A8DADC;fontColor=#1D3557;sketch=1;curveFitting=1;jiggle=2;" vertex="1" connectable="0" parent="IWls0DkO-7642o-yBkDR-91">
+          <mxGeometry x="0.3433" y="1" relative="1" as="geometry">
+            <mxPoint x="22" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IWls0DkO-7642o-yBkDR-14" value="OTOMATİK ÖN MULAKAT" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="423" y="569" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IWls0DkO-7642o-yBkDR-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" target="IWls0DkO-7642o-yBkDR-93">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="826" y="246.99999999999977" as="sourcePoint" />
+            <mxPoint x="431" y="294.0526315789475" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="746" y="247" />
+              <mxPoint x="746" y="294" />
+              <mxPoint x="452" y="294" />
+              <mxPoint x="452" y="307" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IWls0DkO-7642o-yBkDR-116" value="Meslek Maaşı Analizi" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=0;labelBackgroundColor=#A8DADC;fontColor=#1D3557;sketch=1;curveFitting=1;jiggle=2;" vertex="1" connectable="0" parent="IWls0DkO-7642o-yBkDR-114">
+          <mxGeometry x="-0.4921" y="3" relative="1" as="geometry">
+            <mxPoint x="-45" y="12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IWls0DkO-7642o-yBkDR-15" value="ORTALAMA MAAŞ GÖSTERGESİ" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="826" y="213" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IWls0DkO-7642o-yBkDR-16" value="PROFİL YÖNETİMİ" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="684" y="12" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IWls0DkO-7642o-yBkDR-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="IWls0DkO-7642o-yBkDR-17" target="IWls0DkO-7642o-yBkDR-93">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="885" y="446.75" as="sourcePoint" />
+            <mxPoint x="506" y="365" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="750" y="468" />
+              <mxPoint x="692" y="468" />
+              <mxPoint x="692" y="362" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IWls0DkO-7642o-yBkDR-112" value="Mülakat Yönetimi" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=0;labelBackgroundColor=#A8DADC;fontColor=#1D3557;sketch=1;curveFitting=1;jiggle=2;" vertex="1" connectable="0" parent="IWls0DkO-7642o-yBkDR-111">
+          <mxGeometry x="-0.1488" y="3" relative="1" as="geometry">
+            <mxPoint x="-94" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IWls0DkO-7642o-yBkDR-17" value="UZAKTAN MÜLAKAT" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="750" y="444" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IWls0DkO-7642o-yBkDR-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" target="IWls0DkO-7642o-yBkDR-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="54" y="464.0000000000002" as="targetPoint" />
+            <mxPoint x="316.74999999999955" y="380" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="293" y="380" />
+              <mxPoint x="293" y="460" />
+              <mxPoint x="38" y="460" />
+              <mxPoint x="38" y="464" />
+              <mxPoint x="37" y="464" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IWls0DkO-7642o-yBkDR-84" value="&lt;span style=&quot;&quot;&gt;Kullanıcı Başvuruları&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=0;labelBackgroundColor=#A8DADC;fontColor=#000000;sketch=1;curveFitting=1;jiggle=2;" vertex="1" connectable="0" parent="IWls0DkO-7642o-yBkDR-83">
+          <mxGeometry x="-0.0672" y="2" relative="1" as="geometry">
+            <mxPoint x="-11" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IWls0DkO-7642o-yBkDR-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="IWls0DkO-7642o-yBkDR-93" target="IWls0DkO-7642o-yBkDR-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint y="720" as="targetPoint" />
+            <mxPoint x="450" y="490" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="341" y="536" />
+              <mxPoint x="162" y="536" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IWls0DkO-7642o-yBkDR-89" value="Kullanıcı İletişimi" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=0;labelBackgroundColor=#A8DADC;fontColor=#1D3557;sketch=1;curveFitting=1;jiggle=2;" vertex="1" connectable="0" parent="IWls0DkO-7642o-yBkDR-86">
+          <mxGeometry x="-0.0066" y="2" relative="1" as="geometry">
+            <mxPoint x="-40" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IWls0DkO-7642o-yBkDR-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.567;entryY=1.003;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" target="IWls0DkO-7642o-yBkDR-93">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="222" y="640.71" as="sourcePoint" />
+            <mxPoint x="365.58500000000004" y="409.045" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="222" y="614" />
+              <mxPoint x="367" y="614" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IWls0DkO-7642o-yBkDR-88" value="Mesaj Otomasyonu" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=0;labelBackgroundColor=#A8DADC;fontColor=#1D3557;sketch=1;curveFitting=1;jiggle=2;" vertex="1" connectable="0" parent="IWls0DkO-7642o-yBkDR-87">
+          <mxGeometry x="-0.0382" y="3" relative="1" as="geometry">
+            <mxPoint x="-64" y="19" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IWls0DkO-7642o-yBkDR-92" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="570" y="380" width="210" as="geometry" />
+        </mxCell>
+        <mxCell id="IWls0DkO-7642o-yBkDR-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="IWls0DkO-7642o-yBkDR-93" target="IWls0DkO-7642o-yBkDR-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IWls0DkO-7642o-yBkDR-99" value="Çalışan Verisi" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=0;labelBackgroundColor=#A8DADC;fontColor=#1D3557;sketch=1;curveFitting=1;jiggle=2;" vertex="1" connectable="0" parent="IWls0DkO-7642o-yBkDR-98">
+          <mxGeometry x="-0.0918" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IWls0DkO-7642o-yBkDR-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.952;exitY=0.971;exitDx=0;exitDy=0;exitPerimeter=0;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="IWls0DkO-7642o-yBkDR-93" target="IWls0DkO-7642o-yBkDR-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="426.00300000000016" y="398.1120000000001" as="sourcePoint" />
+            <mxPoint x="679.02" y="569" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="426" y="387" />
+              <mxPoint x="426" y="412" />
+              <mxPoint x="630" y="412" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IWls0DkO-7642o-yBkDR-105" value="Mentör/Mentee Kullanıcılar" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=0;labelBackgroundColor=#A8DADC;fontColor=#1D3557;sketch=1;curveFitting=1;jiggle=2;" vertex="1" connectable="0" parent="IWls0DkO-7642o-yBkDR-103">
+          <mxGeometry x="0.0746" y="4" relative="1" as="geometry">
+            <mxPoint x="-52" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IWls0DkO-7642o-yBkDR-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="IWls0DkO-7642o-yBkDR-93" target="IWls0DkO-7642o-yBkDR-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="856" y="444" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IWls0DkO-7642o-yBkDR-110" value="Aday CV&#39;si" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=0;labelBackgroundColor=#A8DADC;fontColor=#1D3557;sketch=1;curveFitting=1;jiggle=2;" vertex="1" connectable="0" parent="IWls0DkO-7642o-yBkDR-109">
+          <mxGeometry x="-0.1541" y="-4" relative="1" as="geometry">
+            <mxPoint x="-4" y="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IWls0DkO-7642o-yBkDR-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.533;entryY=1.007;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.999;exitY=0.371;exitDx=0;exitDy=0;exitPerimeter=0;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="IWls0DkO-7642o-yBkDR-93" target="IWls0DkO-7642o-yBkDR-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="435" y="321.0000000000002" as="sourcePoint" />
+            <mxPoint x="890" y="284" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="890" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IWls0DkO-7642o-yBkDR-117" value="Çalışan Maaş Verisi" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=0;labelBackgroundColor=#A8DADC;fontColor=#1D3557;sketch=1;curveFitting=1;jiggle=2;" vertex="1" connectable="0" parent="IWls0DkO-7642o-yBkDR-113">
+          <mxGeometry x="0.4614" y="3" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IWls0DkO-7642o-yBkDR-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.888;exitY=0.01;exitDx=0;exitDy=0;exitPerimeter=0;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="IWls0DkO-7642o-yBkDR-93">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="431.00300000000004" y="289.432" as="sourcePoint" />
+            <mxPoint x="761.15" y="134.00000000000023" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="417" y="280" />
+              <mxPoint x="417" y="258" />
+              <mxPoint x="552" y="258" />
+              <mxPoint x="552" y="245" />
+              <mxPoint x="720" y="245" />
+              <mxPoint x="720" y="134" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IWls0DkO-7642o-yBkDR-128" value="Aday Raporu Sonucu" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#A8DADC;fontColor=#1D3557;sketch=1;curveFitting=1;jiggle=2;" vertex="1" connectable="0" parent="IWls0DkO-7642o-yBkDR-118">
+          <mxGeometry x="0.047" y="1" relative="1" as="geometry">
+            <mxPoint x="4" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IWls0DkO-7642o-yBkDR-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=-0.005;exitY=0.115;exitDx=0;exitDy=0;exitPerimeter=0;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" target="IWls0DkO-7642o-yBkDR-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="299.07" y="290.05000000000007" as="sourcePoint" />
+            <mxPoint x="38" y="118" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="236" y="290" />
+              <mxPoint x="236" y="91" />
+              <mxPoint x="57" y="91" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IWls0DkO-7642o-yBkDR-123" value="Aday Başvuruları" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=0;labelBackgroundColor=#A8DADC;fontColor=#1D3557;sketch=1;curveFitting=1;jiggle=2;" vertex="1" connectable="0" parent="IWls0DkO-7642o-yBkDR-120">
+          <mxGeometry x="-0.1577" y="-2" relative="1" as="geometry">
+            <mxPoint x="-85" y="-53" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IWls0DkO-7642o-yBkDR-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.072;exitY=-0.011;exitDx=0;exitDy=0;exitPerimeter=0;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="IWls0DkO-7642o-yBkDR-93" target="IWls0DkO-7642o-yBkDR-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="396.84900000000016" y="223.85800000000015" as="sourcePoint" />
+            <mxPoint x="376" y="-54.03" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IWls0DkO-7642o-yBkDR-126" value="Kullanıcı Etkileşimi" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=0;rotation=0;labelBackgroundColor=#A8DADC;fontColor=#1D3557;sketch=1;curveFitting=1;jiggle=2;" vertex="1" connectable="0" parent="IWls0DkO-7642o-yBkDR-125">
+          <mxGeometry x="-0.2173" y="3" relative="1" as="geometry">
+            <mxPoint x="-11" y="-16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IWls0DkO-7642o-yBkDR-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="IWls0DkO-7642o-yBkDR-93" target="IWls0DkO-7642o-yBkDR-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260.1438095238094" y="337" as="sourcePoint" />
+            <mxPoint x="508" y="73" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="383" y="189" />
+              <mxPoint x="454" y="189" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IWls0DkO-7642o-yBkDR-134" value="Şirket Puanlandırma" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#A8DADC;fontColor=#1D3557;sketch=1;curveFitting=1;jiggle=2;" vertex="1" connectable="0" parent="IWls0DkO-7642o-yBkDR-131">
+          <mxGeometry x="0.2296" y="1" relative="1" as="geometry">
+            <mxPoint x="-30" y="15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IWls0DkO-7642o-yBkDR-139" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="IWls0DkO-7642o-yBkDR-93" target="IWls0DkO-7642o-yBkDR-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="655" y="143" as="targetPoint" />
+            <mxPoint x="342" y="249" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="405" y="249" />
+              <mxPoint x="531" y="249" />
+              <mxPoint x="531" y="211" />
+              <mxPoint x="711" y="211" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IWls0DkO-7642o-yBkDR-141" value="Deneyim ve Gönderi Paylaşımları" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#A8DADC;fontColor=#1D3557;sketch=1;curveFitting=1;jiggle=2;" vertex="1" connectable="0" parent="IWls0DkO-7642o-yBkDR-139">
+          <mxGeometry x="0.1146" y="-1" relative="1" as="geometry">
+            <mxPoint x="-21" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IWls0DkO-7642o-yBkDR-146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="IWls0DkO-7642o-yBkDR-93" target="IWls0DkO-7642o-yBkDR-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="394" y="480" />
+              <mxPoint x="439" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IWls0DkO-7642o-yBkDR-147" value="Aday Tanıtım Verisi" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#A8DADC;fontColor=#1D3557;sketch=1;curveFitting=1;jiggle=2;" vertex="1" connectable="0" parent="IWls0DkO-7642o-yBkDR-146">
+          <mxGeometry x="-0.1744" y="-1" relative="1" as="geometry">
+            <mxPoint x="32" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IWls0DkO-7642o-yBkDR-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="IWls0DkO-7642o-yBkDR-3" target="IWls0DkO-7642o-yBkDR-93">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="324.9999999999998" y="73.00000000000004" as="sourcePoint" />
+            <mxPoint x="367.20999999999987" y="283.79999999999995" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="343" y="23" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IWls0DkO-7642o-yBkDR-127" value="Bağlantı Tercihi" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=0;labelBackgroundColor=#A8DADC;fontColor=#1D3557;sketch=1;curveFitting=1;jiggle=2;" vertex="1" connectable="0" parent="IWls0DkO-7642o-yBkDR-124">
+          <mxGeometry x="-0.1305" y="1" relative="1" as="geometry">
+            <mxPoint y="-54" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IWls0DkO-7642o-yBkDR-93" value="Workify" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#b1ddf0;strokeColor=#10739e;sketch=1;curveFitting=1;jiggle=2;glass=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="284" y="279" width="147" height="111" as="geometry" />
+        </mxCell>
+        <mxCell id="IWls0DkO-7642o-yBkDR-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.956;exitY=0.035;exitDx=0;exitDy=0;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;sketch=1;curveFitting=1;jiggle=2;exitPerimeter=0;" edge="1" parent="1" source="IWls0DkO-7642o-yBkDR-93" target="IWls0DkO-7642o-yBkDR-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="429" y="279" as="sourcePoint" />
+            <mxPoint x="824" y="271.0000000000002" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="429" y="283" />
+              <mxPoint x="429" y="271" />
+              <mxPoint x="735" y="271" />
+              <mxPoint x="735" y="193" />
+              <mxPoint x="821" y="193" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IWls0DkO-7642o-yBkDR-129" value="İşveren Tercihleri" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#A8DADC;fontColor=#1D3557;sketch=1;curveFitting=1;jiggle=2;" vertex="1" connectable="0" parent="IWls0DkO-7642o-yBkDR-119">
+          <mxGeometry x="-0.2246" y="-1" relative="1" as="geometry">
+            <mxPoint x="36" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IWls0DkO-7642o-yBkDR-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="IWls0DkO-7642o-yBkDR-2" target="IWls0DkO-7642o-yBkDR-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IWls0DkO-7642o-yBkDR-122" value="Aday Takibi Raporu" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=0;labelBackgroundColor=#A8DADC;fontColor=#1D3557;sketch=1;curveFitting=1;jiggle=2;" vertex="1" connectable="0" parent="IWls0DkO-7642o-yBkDR-121">
+          <mxGeometry x="-0.2522" y="-2" relative="1" as="geometry">
+            <mxPoint x="-20" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IWls0DkO-7642o-yBkDR-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="412" y="61" as="sourcePoint" />
+            <mxPoint x="370" y="279" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="412" y="121" />
+              <mxPoint x="370" y="121" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IWls0DkO-7642o-yBkDR-133" value="Şirket Derecesi" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#A8DADC;fontColor=#1D3557;sketch=1;curveFitting=1;jiggle=2;" vertex="1" connectable="0" parent="IWls0DkO-7642o-yBkDR-130">
+          <mxGeometry x="-0.0784" y="3" relative="1" as="geometry">
+            <mxPoint x="17" y="-15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IWls0DkO-7642o-yBkDR-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="IWls0DkO-7642o-yBkDR-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="657" y="42" as="sourcePoint" />
+            <mxPoint x="393" y="279" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="665" y="42" />
+              <mxPoint x="665" y="115" />
+              <mxPoint x="473" y="115" />
+              <mxPoint x="473" y="230" />
+              <mxPoint x="393" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IWls0DkO-7642o-yBkDR-138" value="Gönderi Düzenleme ve Ekleme" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#A8DADC;fontColor=#1D3557;sketch=1;curveFitting=1;jiggle=2;" vertex="1" connectable="0" parent="IWls0DkO-7642o-yBkDR-135">
+          <mxGeometry x="-0.2011" y="1" relative="1" as="geometry">
+            <mxPoint x="42" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IWls0DkO-7642o-yBkDR-137" value="" style="endArrow=none;html=1;rounded=0;entryX=0.45;entryY=1.011;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" target="IWls0DkO-7642o-yBkDR-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="579" y="109" as="sourcePoint" />
+            <mxPoint x="587" y="39" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IWls0DkO-7642o-yBkDR-140" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.917;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" target="IWls0DkO-7642o-yBkDR-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="635" y="204" as="sourcePoint" />
+            <mxPoint x="631" y="46" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IWls0DkO-7642o-yBkDR-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" target="IWls0DkO-7642o-yBkDR-93">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="28" y="340.98" as="sourcePoint" />
+            <mxPoint x="269" y="393.9799999999998" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="28" y="414" />
+              <mxPoint x="265" y="414" />
+              <mxPoint x="265" y="362" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IWls0DkO-7642o-yBkDR-144" value="Şirket Kadrosu Analizi" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#A8DADC;fontColor=#1D3557;sketch=1;curveFitting=1;jiggle=2;" vertex="1" connectable="0" parent="IWls0DkO-7642o-yBkDR-143">
+          <mxGeometry x="-0.0131" y="-3" relative="1" as="geometry">
+            <mxPoint x="9" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
